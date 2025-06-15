@@ -39,9 +39,7 @@ pip install -r requirements.txt
 
 ### 📊 Getting Datasets
 
-1. The datasets can be obtained from _Google Drive_. 
-
-**Note: You can download them from the baseline models, such as [iTransformer](https://github.com/thuml/iTransformer), [TimesNet](https://github.com/thuml/TimesNet), and others.**
+1. The datasets are available for download from the official repositories of baseline models, such as [iTransformer](https://github.com/thuml/iTransformer), [TimesNet](https://github.com/thuml/TimesNet), and others.
 
 ### 📈 Making Forecasts
 
