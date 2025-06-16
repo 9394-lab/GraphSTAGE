@@ -1,6 +1,6 @@
 # GraphSTAGE: Channel-Preserving GNNs for Time Series Forecasting
 <div style="text-align: center;">
-    <img src="figures/logo3.webp" width="249" />
+    <img src="figures/logo.webp" width="249" />
 </div>
 
 ## 📚 Introduction
